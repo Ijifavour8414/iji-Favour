@@ -1,1 +1,2 @@
+[![Board Status](https://dev.azure.com/ijifavour8414/ce2219a9-5229-4c21-a7b4-4d646fe12c76/e69faf97-6969-41b2-90d1-104879ec052b/_apis/work/boardbadge/7bf8e9f5-cdf3-48d4-90cc-4590c4b69a4a)](https://dev.azure.com/ijifavour8414/ce2219a9-5229-4c21-a7b4-4d646fe12c76/_boards/board/t/e69faf97-6969-41b2-90d1-104879ec052b/Microsoft.RequirementCategory)
 # iji-Favour
